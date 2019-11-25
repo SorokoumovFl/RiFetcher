@@ -3,7 +3,6 @@ package rocks.flazhik.boilerplate.fetcher.fetch;
 import com.google.inject.Inject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import rocks.flazhik.boilerplate.fetcher.Fetcher;
 import rocks.flazhik.boilerplate.fetcher.persistence.GoodBoyRepository;
 
 import java.util.UUID;
@@ -23,7 +22,7 @@ public class GoodBoyFetcher implements Fetcher {
 
     @Override
     public void fetch() {
-        /**
+        /*
          * You can do here whatever you pleased to do, parse wherever you pleased to parse from
          * Don't forget to save a model to your repo at the end of the method.
          *

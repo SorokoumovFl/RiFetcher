@@ -1,4 +1,4 @@
-package rocks.flazhik.boilerplate.fetcher;
+package rocks.flazhik.boilerplate.fetcher.resource;
 
 public abstract class AbstractResource {
 

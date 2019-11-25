@@ -1,4 +1,4 @@
-package rocks.flazhik.boilerplate.fetcher;
+package rocks.flazhik.boilerplate.fetcher.resource;
 
 import com.google.inject.Inject;
 import rocks.flazhik.boilerplate.fetcher.persistence.GoodBoyRepository;

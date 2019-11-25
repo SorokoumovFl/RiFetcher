@@ -1,0 +1,5 @@
+database:
+  driver-class: org.postgresql.Driver
+  url: jdbc:postgresql://localhost:5433/postgres
+  username: postgres
+  password: docker
